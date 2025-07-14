@@ -483,7 +483,7 @@ examples = [
 # 构建 Gradio 界面
 with gr.Blocks() as demo:
     # 标题和描述
-    gr.Markdown("# 「赛博华佗」🩺")
+    gr.Markdown("# 「动健康」🏃‍♂️ 你的运动健康小助手")
 
     # 创建聊天布局
     with gr.Row():
